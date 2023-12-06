@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63049593977",
+    "project_id": "fir-vjezba-a0162",
+    "storage_bucket": "fir-vjezba-a0162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63049593977:android:8ce4e8b37f2037406a90a8",
+        "android_client_info": {
+          "package_name": "hr.fabolicodi.firebasevjezba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvM9qz6jklzc5VuBOZEEs26GwW-am8z40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
